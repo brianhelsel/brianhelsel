@@ -6,8 +6,7 @@ I'm Brian Helsel and here is an overview of my current work:
 - I'm an R developer actively building data science and visualization tools for wearable devices
 - I enjoy workflow optimization, automating tasks, and creating beautiful reports with Quarto and RMarkdown
 - I provide individual consulting where I work with individuals and organizations to:
-  - Learn R
-  - Build R packages
+  - Learn R and build R packages
   - Create visually appealing reports and visualizations
   - Analyze wearable device data
   - Integrate data processing tools into your workflow
